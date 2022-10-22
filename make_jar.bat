@@ -1,0 +1,1 @@
+jar -cfe lab2.jar bin.test bin/test.class bin

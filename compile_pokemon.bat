@@ -1,0 +1,3 @@
+javac -cp E:\projects\itmo_labs\prog\lab2_prog\bin\Pokemon.jar;.;E:\projects\itmo_labs\prog\lab2_prog\bin -d E:\projects\itmo_labs\prog\lab2_prog pokemon\1\*.java
+javac -cp E:\projects\itmo_labs\prog\lab2_prog\bin\Pokemon.jar;.;E:\projects\itmo_labs\prog\lab2_prog\bin -d E:\projects\itmo_labs\prog\lab2_prog pokemon\2\*.java
+javac -cp E:\projects\itmo_labs\prog\lab2_prog\bin\Pokemon.jar;.;E:\projects\itmo_labs\prog\lab2_prog\bin -d E:\projects\itmo_labs\prog\lab2_prog pokemon\3\*.java
